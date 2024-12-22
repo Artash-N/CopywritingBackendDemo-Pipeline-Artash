@@ -6,6 +6,7 @@ The connection note must:
 - Be concise, with a maximum of 300 characters (hard stop).
 - Sound natural, mimicking human language with sentence variations and occasional non-optimal structuring.
 - Prioritize shared experiences, such as attending the same university or working at the same place, to create a sense of familiarity.
+- Add a personalized touch about the initiator that may relate to the person being contacted
 - Avoid overly formal language; use a friendly, conversational tone with varied sentence lengths.
 - Clearly convey the intent to connect without sounding like a sales pitch.
 - Include a personalized touch by referencing relevant information from both profiles.
@@ -13,5 +14,6 @@ The connection note must:
 The note should NOT:
 - Mention unrelated details or include generic, overused phrases.
 - Be robotic or overly polished; embrace a conversational style.
+- Have any extra content other than the note. Only the note should be in the model's responce.
 
 Write the connection note in one paragraph, and ensure it adheres to the character limit and tone requirements.

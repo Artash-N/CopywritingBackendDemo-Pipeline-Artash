@@ -46,6 +46,5 @@ def scrape_and_summarize_domain(url):
         return f"Error fetching or summarizing content from {url}: {str(e)}"
 
 def enrich_advertiser_data_with_domain(df):
-    print(df['company_domain'])
     df['domain_info'] = df['company_domain'].apply(scrape_and_summarize_domain)
     return df
