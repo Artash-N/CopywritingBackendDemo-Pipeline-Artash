@@ -15,7 +15,7 @@ The messages / replies must:
 
 The note should NOT:
 - Contain false information. For example, do not fabricate shared experiences like attending the same university or working at the same company.
-- Use generic phrases like “I noticed your journey” or “I’m impressed.”
+- Never Use generic phrases like “I noticed your journey” “I’m impressed.”, "As a fellow...", "found facinating..", "caught my eye" or ".. caught my attention"
 - Include repetitive phrases or robotic language.
 - Focus heavily on the initiator’s company or product. Avoid direct promotion; instead, relate the initiator’s work subtly to the recipient’s interests.
 
