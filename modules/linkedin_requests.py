@@ -5,22 +5,22 @@ def initialize_client(api_key):
 
 def generate_linkedin_request(client, advertising_paragraph, descriptive_paragraph, domain_info, system_prompt):
     user_message = f"""
-Person initiating the request:
+Information on the person initiating the request (education, company, role, work):
 {advertising_paragraph}
 
-Person being contacted:
+Person being contacted by initiator (their education, company, role, work):
 {descriptive_paragraph}
 
-Info on the company the person initiating the request is from:
+Info on the company the person initiating the request is from scapred from their site:
 {domain_info}
 
-Generate LinkedIn request in under 280 characters. Plain text no formatting or linebreaks. 
+Generate initial LinkedIn request in under 280 characters. Plain text no formatting or linebreaks. 
 """
     try:
         response = client.messages.create(
-            model="claude-3-5-sonnet-20241022",
+            model="claude-3-5-sonnet-latest",
             max_tokens=100,
-            temperature=1,
+            temperature = 1.0,
             system=system_prompt,
             messages=[
                 {
