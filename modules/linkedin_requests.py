@@ -11,7 +11,7 @@ Information on the person initiating the request (education, company, role, work
 Person being contacted by initiator (their education, company, role, work):
 {descriptive_paragraph}
 
-Info on the company the person initiating the request is from scapred from their site:
+Info on the company the person initiating the request is from scraped from their site:
 {domain_info}
 
 Generate initial LinkedIn request in under 280 characters. Plain text no formatting or linebreaks. 
