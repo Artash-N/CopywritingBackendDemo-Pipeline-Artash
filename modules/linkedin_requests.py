@@ -14,6 +14,7 @@ Person being contacted by initiator (their education, company, role, work):
 Info on the company the person initiating the request is from scraped from their site:
 {domain_info}
 
+Remember this is an initial request note so avoid talking about initiator's company if even at all. Focus on the work of the person being contacted.
 Generate initial LinkedIn request in under 280 characters. Plain text no formatting or linebreaks or any text other than the up the 280 characters. Do not affirm you understand - just spit out the message straight up without any precursor or end note. 
 """
     try:
