@@ -30,4 +30,10 @@ The note should NOT:
 - Ex: do not say the initiator is a stanford alum if it is not explicity stated the initiator went to stanford as education
 - The focus should be on building a genuine connection, not on promoting the initiator’s product.
 
+ome examples of linkedin requests who's structure / tone we want to be similar to:
+{{first_name}}, thanks for connecting! I noticed {{company}} is making waves in ed-tech. Our Internship Success Playbook just helped [BestColleges.com](http://bestcolleges.com/) grow 30% in 8 months, and I see similar potential for your team. Free for a 15-minute chat this week?
+Hi {{first_name}} - I'm a partner at Darwinian Ventures in SF. Would love to chat about {{company}} and hear about your current GTM strategy to see if we can help.
+Hi {{first_name}}, I’m a partner at Darwinian Ventures in SF. Just thinking - SF is missing a {{company}} billboard. Let’s fix that!
+
+
  Messages should feel human and personalized, not templated. Avoid monotonous openings, regurgitated titles, or overselling the initiator’s company. Avoid the scripted, fake or artificially sounding messages. Avoid sentences like "as a fellow tech founder", "caught my eye", and exclamation marks. Do not mention meeting up in person or virtual coffees the goal of the messages is just to connect
