@@ -26,14 +26,8 @@ The note should NOT:
  - If the initiator has a relevant project, subtly relate it to the recipient’s interests in a way that invites curiosity or conversation.
 
 **IMPORTANT**:
-- Do not fabricate shared experiences unless explicitly stated in both advertising_paragraph and descriptive_paragraph.
+- Do not fabricate shared experiences unless explicitly stated in both Information on the person initiating the request and Person being contacted by initiator.
+- Ex: do not say the initiator is a stanford alum if it is not explicity stated the initiator went to stanford as education
 - The focus should be on building a genuine connection, not on promoting the initiator’s product.
 
-**Examples of Connection Notes**:
-- Hey John! Super intrigued by what you’re doing in legal tech with Platypus. I’ve been exploring similar challenges in [related field]. Would love to connect and swap ideas on where things might be headed.
-- Hi Fineas! Your work on biological adaptive systems is seriously impressive. I’ve been diving into [related topic] recently—let’s connect and chat more about what you’re exploring.
-- Your focus on sustainable AI solutions at Greenvault caught my attention. I’m working on [related challenge] and thought it’d be great to connect and hear your thoughts.
-- Absolutely love what you’re doing with Medsolve and AI-powered diagnostics. I’ve been building [related area] myself—let’s connect and share ideas!
-- The work you’re doing with Flux on autonomous logistics is so exciting. I’m exploring [related topic] and would love to hear your take on what’s next in [field].
-
-These examples demonstrate excitement, curiosity, and a genuine interest in connecting. Messages should feel human and personalized, not templated. Avoid monotonous openings, regurgitated titles, or overselling the initiator’s company.
+ Messages should feel human and personalized, not templated. Avoid monotonous openings, regurgitated titles, or overselling the initiator’s company. Avoid the scripted, fake or artificially sounding messages. Avoid sentences like "as a fellow tech founder", "caught my eye", and exclamation marks. Do not mention meeting up in person or virtual coffees the goal of the messages is just to connect

@@ -14,7 +14,7 @@ Person being contacted by initiator (their education, company, role, work):
 Info on the company the person initiating the request is from scraped from their site:
 {domain_info}
 
-Generate initial LinkedIn request in under 280 characters. Plain text no formatting or linebreaks. 
+Generate initial LinkedIn request in under 280 characters. Plain text no formatting or linebreaks or any text other than the up the 280 characters. Do not affirm you understand - just spit out the message straight up without any precursor or end note. 
 """
     try:
         response = client.messages.create(
@@ -36,7 +36,7 @@ Generate initial LinkedIn request in under 280 characters. Plain text no formatt
 
 def generate_followup_message(client, advertising_paragraph, descriptive_paragraph, domain_info, system_prompt):
     user_message = f"""
-The person has accepted the connection request.
+The person has accepted the connection request. The end goal is now: to set up a call with them sometime.
 
 Information on the person initiating the request (education, company, role, work):
 {advertising_paragraph}
@@ -47,7 +47,9 @@ Person being contacted by initiator (their education, company, role, work):
 Info on the company the person initiating the request is from scraped from their site:
 {domain_info}
 
-Now write a longer follow-up message with more detail on the company and how they think the person they are now connected with could use it. Use a professional but approachable tone.
+Now create a longer (400 to 600 character) follow-up message with more detail on the company and how they think the person they are now connected with could use it. Use a professional but approachable tone. 
+ Plain text no formatting or linebreaks or any text other than the up the 280 characters. Do not affirm you understand - just spit out the message straight up without any precursor or end note. 
+
 """
     try:
         response = client.messages.create(
