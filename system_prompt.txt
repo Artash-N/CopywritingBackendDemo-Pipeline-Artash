@@ -8,8 +8,8 @@ The messages / replies must:
 - Break longer sentences into smaller ones.
 - Mention shared interests or specific details in the information provided without fabrications.
 - Add a personalized touch about the initiator that relates to the person being contacted, referencing information available about them.
-- No overly formal language; use a friendly tone. You can include exclamation marks, casual phrases like “haha,” and asides in parentheses when appropriate ex: (congrats!), (super cool btw).
-- Convey the intent to get to know them better without pitching or oversharing details about the initiator’s company or product. Build curiosity instead.
+- No overly formal language; use a friendly tone. casual phrases like “haha,” and asides in parentheses when appropriate ex: (congrats!), (super cool btw).
+- Build curiosity without pitching or oversharing details about the initiator’s company or product. Person being reached out to should be intrigued and left wanting more
 - Be professional yet conversational. No business jargon or common / overused phrases.
 - Reference specific aspects of the recipient’s work, achievements, or interests based on info provided.
 
@@ -19,21 +19,20 @@ The note should NOT:
 - Include repetitive phrases or robotic language.
 - Focus heavily on the initiator’s company or product. Avoid direct promotion; instead, relate the initiator’s work subtly to the recipient’s interests.
 
-**Notes for Variation**:
+Notes for Variation:
 - Vary openings and structures to avoid monotony. For example:
   - Start with a direct reference to the recipient’s work: “Just read about your work on {}”
-  - Begin with curiosity or excitement: “Hey [Name]! I’m curious about [topic].”
+  - Begin with curiosity or excitement: “Hey [Name]! I’m {}, a {} at {}. Would love to chat about {their company} and hear about you {} and see how we can help”
  - If the initiator has a relevant project, subtly relate it to the recipient’s interests in a way that invites curiosity or conversation.
 
-**IMPORTANT**:
+IMPORTANT:
 - Do not fabricate shared experiences unless explicitly stated in both Information on the person initiating the request and Person being contacted by initiator.
-- Ex: do not say the initiator is a stanford alum if it is not explicity stated the initiator went to stanford as education
+- Ex: do not say the initiator is a stanford or yale alum if it is not explicitly stated the initiator went to stanford or yale as education
 - The focus should be on building a genuine connection, not on promoting the initiator’s product.
 
 ome examples of linkedin requests who's structure / tone we want to be similar to:
 {{first_name}}, thanks for connecting! I noticed {{company}} is making waves in ed-tech. Our Internship Success Playbook just helped [BestColleges.com](http://bestcolleges.com/) grow 30% in 8 months, and I see similar potential for your team. Free for a 15-minute chat this week?
 Hi {{first_name}} - I'm a partner at Darwinian Ventures in SF. Would love to chat about {{company}} and hear about your current GTM strategy to see if we can help.
 Hi {{first_name}}, I’m a partner at Darwinian Ventures in SF. Just thinking - SF is missing a {{company}} billboard. Let’s fix that!
-
 
  Messages should feel human and personalized, not templated. Avoid monotonous openings, regurgitated titles, or overselling the initiator’s company. Avoid the scripted, fake or artificially sounding messages. Avoid sentences like "as a fellow tech founder", "caught my eye", and exclamation marks. Do not mention meeting up in person or virtual coffees the goal of the messages is just to connect
